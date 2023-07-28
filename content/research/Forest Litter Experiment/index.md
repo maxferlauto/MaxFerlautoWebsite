@@ -9,7 +9,7 @@ layout: single
 links:
 subtitle: Research in a large-scale tree biodiversity experiment
 tags:
-title: Forest Litter Experiment 
+title: "Chapter 2: Does canopy diversity interact with litter management to create ecological traps?" 
 ---
 Let's say you heard about how planting diverse native trees can support insect biodiversity in your backyard. So, you go to a nursery to buy a sycamore, a northern red oak, and a tulip tree. You plant the trees and let them grow. That autumn, you rake your leaves to the curb as always. Have you helped your insect species? Well, there is a chance that by raking away fallen leaf litter you have removed overwintering insects and their habitat. There will be nothing to repopulate the trees next year. This yard could be considered a trap for insect populations. They live it up in the summer only to be mulched or thrown into a municipal composter come fall. On the other hand, by planting a diverse set of trees you likely have a diverse set of insect species. In a diverse insect assemblage there is a higher chance of species that won’t be hurt by leaf litter removal. Your diverse tree planting mitigated the negative effects of removing leaf litter. 
 

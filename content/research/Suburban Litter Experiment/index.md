@@ -7,9 +7,9 @@ draft: false
 excerpt: Suburban Litter Experiment
 layout: single
 links:
-subtitle: Research in a homeowner's backyards
+subtitle: Research in residential backyards
 tags:
-title: Suburban Litter Experiment
+title: "Chapter 1: Removing leaf litter reduces Lepidoptera emergence in suburban yards"
 ---
 <img src="IMG_7506.jpg">
 
