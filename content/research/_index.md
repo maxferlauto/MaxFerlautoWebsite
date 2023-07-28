@@ -16,11 +16,12 @@ show_post_thumbnail: true
 sidebar:
   author: 
   description: 
-  show_sidebar_adunit: false
+  show_sidebar_adunit: true
   text_link_label: ""
   text_link_url: ""
   title: 
+  thumbnail_left: true
 title: Research Projects
 ---
-{{< figure src="BDTaerial.jpeg" caption="A Field at BiodiversiTREE" numbered="false" width="85%">}}
+
 
