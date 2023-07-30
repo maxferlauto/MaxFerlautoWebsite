@@ -22,7 +22,7 @@ sidebar:
   show_sidebar_adunit: true
   text_link_label: Click here for all categories
   text_link_url: /categories/
-  title: Extension
+  title: Research
 thumbnail_left: true
 title: Research
 ---
