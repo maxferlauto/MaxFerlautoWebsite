@@ -18,7 +18,7 @@ show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: 
-  description: "This is a collection of information about local plants and insect. I hope this will be useful for home gardeners and nature enthusiasts!    
+  description: "This is a collection of information about local plants and insects. I hope this will be useful for home gardeners and nature enthusiasts!    
        
   \n[Presentations](/categories/presentation/)"
   show_sidebar_adunit: true
