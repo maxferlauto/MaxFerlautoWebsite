@@ -16,5 +16,5 @@ Ideally we could convince every homeowner in the country to ecologically landsca
   
 Here, we use publicly available data about privately owned parcels to create a map of existing ecologically managed homes and potential residences that would benefit from ecological landscaping outreach. We layer ecological landcover data, socioeconomic data, and personal interest indicators to create a resistance surface through which we will conduct connectivity analyses. Eventually we aim to create a web portal that will reveal if a particular address is part of that corridor.
 
-<img src="IMG_21.png" alt="Resistance surface layers" width="50%"/>  
+<img src="IMG_21.png" alt="Resistance surface layers" width="75%"/>  
 
