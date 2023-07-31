@@ -2,7 +2,7 @@
 author: 
 categories:
 - presentation
-date: "2023-07-30"
+date: "2023-07-31"
 draft: false
 excerpt: MD HGIC 
 layout: single
