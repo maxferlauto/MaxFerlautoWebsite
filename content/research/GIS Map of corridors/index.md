@@ -4,7 +4,7 @@ categories:
 - research
 date: 2023-08-03
 draft: false
-excerpt: 
+excerpt: Mapping potential eco-corridors
 layout: single
 links:
 subtitle: Mapping potential eco-corridors
