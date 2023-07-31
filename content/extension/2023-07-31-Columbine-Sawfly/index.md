@@ -4,10 +4,10 @@ categories:
 - presentation
 date: "2023-07-30"
 draft: false
-excerpt: Montgomery Master Gardeners 
+excerpt: MD HGIC 
 layout: single
-subtitle: Preliminary research results for Montgomery Master Gardeners
-title: Should you leave the leaves?
+subtitle: 
+title: Columbine Sawfly
 ---
 
-{{< youtube id="n6gxae9ABak">}}
+{{< youtube id="HtLyWg7hV0o">}}
