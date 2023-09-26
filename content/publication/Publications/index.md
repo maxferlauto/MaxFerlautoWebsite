@@ -1,14 +1,21 @@
 ---
 author: 
 categories:
+<<<<<<< HEAD
 -
+=======
+- Theme Features
+>>>>>>> 4025c7abb657dcb8c7b70f1149716633adf379cc
 date: "2023-07-13"
 draft: false
 excerpt: Publications
 layout: single
 subtitle: 
 tags:
+<<<<<<< HEAD
 -
+=======
+>>>>>>> 4025c7abb657dcb8c7b70f1149716633adf379cc
 title: Publications
 ---
 
