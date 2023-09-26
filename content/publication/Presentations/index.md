@@ -27,6 +27,7 @@ Ferlauto, M., Parker, J., Burghardt, K. 2020. Assessing the effects of leaf litt
 Ferlauto, M. 2018. The effect of Alliaria petiolata on ant communities. Presentation. Harvard Forest Student Symposium; August 2, 2018; Harvard Forest, Petersham, MA.
 
 **Contributed posters:**
+
 Ferlauto, M., Burghardt, K. 2020. Autumn leaf litter removal reduces moth emergence in suburban yards. Poster.
 Ecological Society of America Mid-Atlantic Meeting. April 1, 2023.
 
