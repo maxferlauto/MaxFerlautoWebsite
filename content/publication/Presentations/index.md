@@ -10,13 +10,13 @@ tags:
 title: Presentations
 ---
 
-Scientific Presentations:
+**Scientific Presentations:**
 
-Invited Talks:
+**Invited Talks:**
 
-Ferlauto, M., Parker, J., Burghardt, K. 2022. Assessing the Impacts of Leaf Litter Management on Overwintering insects in Urban and Rural Areas. Presentation. Eastern Branch Annual Meeting, Entomological Society ofAmerica. April 25, 2022.
+Ferlauto, M., Parker, J., Burghardt, K. 2022. Assessing the Impacts of Leaf Litter Management on Overwintering insects in Urban and Rural Areas. Presentation. Eastern Branch Annual Meeting, Entomological Society of America. April 25, 2022.
 
-Contributed Talks:
+**Contributed Talks:**
 
 Ferlauto, M., Burghardt, K. 2020. Autumn leaf litter removal reduces moth emergence in suburban yards.Baltimore Ecosystem. Study Quarterly Meeting. April 11, 2023.
 
@@ -26,7 +26,7 @@ Ferlauto, M., Parker, J., Burghardt, K. 2020. Assessing the effects of leaf litt
 
 Ferlauto, M. 2018. The effect of Alliaria petiolata on ant communities. Presentation. Harvard Forest Student Symposium; August 2, 2018; Harvard Forest, Petersham, MA.
 
-Contributed posters:
+**Contributed posters:**
 Ferlauto, M., Burghardt, K. 2020. Autumn leaf litter removal reduces moth emergence in suburban yards. Poster.
 Ecological Society of America Mid-Atlantic Meeting. April 1, 2023.
 
@@ -36,7 +36,7 @@ Ferlauto, M., Baremore, A., Bierman, K., Muth, N. 2017. Variation in arthropod c
 
 Ferlauto, M., Bierman, K., Baremore, A., Muth, N. 2016. Variation in arthropod communities associated withnative and non-native vegetation at the Baker-Henry Peace Chapel and Nature Preserve; Poster. PA Botany Symposium November 18, 2016
 
-Invited Outreach Talks:
+**Invited Outreach Talks:**
 
 Wildlife Night Tour in the Anacostia River (Lightsheet Demonstration). Sept 26th, 2023. Anacostia Watershed Society. ~10 attendees
 
