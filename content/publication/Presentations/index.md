@@ -1,17 +1,12 @@
 ---
 author: 
 categories:
--
 date: "2023-07-13"
 draft: false
 excerpt: Presentations
 layout: single
 subtitle: 
 tags:
-<<<<<<< HEAD
--
-=======
->>>>>>> 4025c7abb657dcb8c7b70f1149716633adf379cc
 title: Presentations
 ---
 

@@ -1,23 +1,13 @@
 ---
 author: 
 categories:
-<<<<<<< HEAD
--
-=======
-- Theme Features
->>>>>>> 4025c7abb657dcb8c7b70f1149716633adf379cc
 date: "2023-07-13"
 draft: false
-excerpt: Publications
+excerpt: Presentations
 layout: single
 subtitle: 
 tags:
-<<<<<<< HEAD
--
-=======
->>>>>>> 4025c7abb657dcb8c7b70f1149716633adf379cc
-title: Publications
+title: Presentations
 ---
-
 
 Ferlauto, M., Schmitt, L.,  Burghardt, K. 2023. Legacy effects of long-term autumn leaf litter removal slows decomposition rates and reduces soil carbon in suburban yards. (Under Review)
