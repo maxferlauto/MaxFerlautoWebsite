@@ -4,12 +4,61 @@ categories:
 - Theme Features
 date: "2021-07-13"
 draft: false
-excerpt: Finally a website!
+excerpt: Presentations
 layout: single
-subtitle: My journey with blogdown
+subtitle: 
 tags:
-- website
-title: My journey with blogdown
+title: Presentations
 ---
 
-I finally have a good website! Initially, I wanted to learn html, css, javascript, and build it myself. But, I decided that would be a poor use of my time. As I became more proficient in R, I learned about packages that could streamline the process. This website is built in R studio using the [blogdown package](https://bookdown.org/yihui/blogdown/). Each page is written in markdown or Rmarkdown. Blogdown uses the Hugo framework to generate static sites. The great things about static sites are that they are portable, independant, fast, and secure. Hugo websites are built with [themes](https://themes.gohugo.io/), user-submitted templates. At first I used the [academic theme](https://wowchemy.com/) from wowchemy by George Cushen. I found it to have the best documentation and feature list. But I wanted to further customize the theme so I had to teach myself a good bit of css and html. There are tons of great resources out there for this but using google chrome’s inspect action was key. Then my website was beautiful, it was done. I went to deploy it using netlify and...error. I figured I had messed something up so I decided to start from scratch and just transfer the files I had written to a new site. As I was doing that I realized that the wowchemy theme had transitioned to become more of an online cms editor. Now it no longered worked with the blogdown package. So I decided to use a different theme called hugo-apero.I am sure I will have more to say about this theme as I use it more. Oh, one final thing. Don’t put your website repository in a google drive folder. It won’t work.
+Scientific Presentations:
+
+Invited Talks:
+
+Ferlauto, M., Parker, J., Burghardt, K. 2022. Assessing the Impacts of Leaf Litter Management on Overwintering insects in Urban and Rural Areas. Presentation. Eastern Branch Annual Meeting, Entomological Society ofAmerica. April 25, 2022.
+
+Contributed Talks:
+
+Ferlauto, M., Burghardt, K. 2020. Autumn leaf litter removal reduces moth emergence in suburban yards.Baltimore Ecosystem. Study Quarterly Meeting. April 11, 2023.
+
+Ferlauto, M., Parker, J., Burghardt, K. 2021. Comparing the impacts of autumn leaf litter management and canopy diversity on overwintering insect communities in rural and urban landscapes. Virtual presentation:Entomological Society of America Annual Meeting. October 31, 2021.
+
+Ferlauto, M., Parker, J., Burghardt, K. 2020. Assessing the effects of leaf litter disturbance on pollinators and natural enemies. Virtual presentation: UMD Agriculture and Natural Resources Cornerstone Event. November 9,2020.
+
+Ferlauto, M. 2018. The effect of Alliaria petiolata on ant communities. Presentation. Harvard Forest Student Symposium; August 2, 2018; Harvard Forest, Petersham, MA.
+
+Contributed posters:
+Ferlauto, M., Burghardt, K. 2020. Autumn leaf litter removal reduces moth emergence in suburban yards. Poster.
+Ecological Society of America Mid-Atlantic Meeting. April 1, 2023.
+
+Ferlauto, M., Burghardt, K. 2020. Assessing the effects of leaf litter disturbance on pollinators and naturalenemies. Poster presented electronically at: Ecological Society of America Annual Meeting. August 3, 2020.
+
+Ferlauto, M., Baremore, A., Bierman, K., Muth, N. 2017. Variation in arthropod communities associated withnative and non-native vegetation. Poster. Mid-Atlantic Invasive Plant Council Conference. July 31, 2017.
+
+Ferlauto, M., Bierman, K., Baremore, A., Muth, N. 2016. Variation in arthropod communities associated withnative and non-native vegetation at the Baker-Henry Peace Chapel and Nature Preserve; Poster. PA Botany Symposium November 18, 2016
+
+Invited Outreach Talks:
+
+Wildlife Night Tour in the Anacostia River (Lightsheet Demonstration). Sept 26th, 2023. Anacostia Watershed Society. ~10 attendees
+
+Maryland Master Naturalists Entomology Training Day. May 13th, 2023. Anacostia chapter of MNN. ~14attendees
+
+Suburban Leaf Litter and Overwintering Insects. Nov 17th, 2022.Natural History Society of Maryland. ~75attendees
+
+How Does Residential Leaf Litter Management Affect Overwintering Insects and What Can We Do About It? Sept 13th, 2022. Anne Arundel Master Gardeners. ~ 114 attendees
+
+Leaf Litter And Different Removal Regimes And Its Effect On The Arthropod Community. Sept 1st, 2022.Montgomery Master Gardeners. ~130 attendees
+
+Should you Leave your Leaves? How Autumn Yard Maintenance Affects Overwintering Insects. Aug 9th, 2022
+Oregon State Master Gardeners. ~ 125 attendees
+
+My Year Playing with Litter: Exploring the Effects of Leaf Litter Removal on Insect Communities. Nov 14th,2021.
+Potowmack Chapter, Virginia Native Plant Society. ~ 30 attendees
+
+Spring Wildflowers of the DC Region. Feb 17, 2021.
+Anacostia Watershed Society. ~40 attendees
+
+Grasses and Sedges and Mosses, Oh My!: Identifying Difficult Plant Taxa. Aug 2017. National Association forInterpretation: Beltway Chapter. ~10 attendees
+
+Huntley Meadows Interpretive Hike. Aug 2017.
+Potowmack Chapter, Virginia Native Plant Society. ~12 attendees
